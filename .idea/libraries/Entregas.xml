@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Entregas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Entregas/Proyecto03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Entregas/Proyecto02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Entregas/Proyecto4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Entregas/Proyecto01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Entregas/Proyecto05.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Entregas/ProyectoFinal.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

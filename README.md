@@ -16,7 +16,7 @@ Algunos de los diagramas realizados (Los diagramas completos están en la carpet
 
 - Diseño Conceptual
 
-  ![Diseño Conceptual](img/conceptos.png)
+  ![Diseño Conceptual](img/Conceptos.png)
 
 - Diseño Lógico 
 
@@ -26,15 +26,15 @@ Algunos de los diagramas realizados (Los diagramas completos están en la carpet
 
   - Componentes
 
-    ![Componentes](img/componentes.png)
+    ![Componentes](img/Componentes.png)
 
   - Datos
 
-    ![Datos](img/datos.png) 
+    ![Datos](img/Datos.png) 
   
   - Seguridad
 
-    ![Seguridad](img/seguridad.png)
+    ![Seguridad](img/Seguridad.png)
 
  - Casos de uso (Consultas gerenciales)
 
