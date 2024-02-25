@@ -36,10 +36,6 @@ Algunos de los diagramas realizados (Los diagramas completos están en la carpet
 
     ![Seguridad](img/Seguridad.png)
 
- - Casos de uso (Consultas gerenciales)
-
-  ![Casos de uso](img/CasosDeUso.png)
-
 ## Cómo Usar
 
 Para utilizar este proyecto, primero instale la base de datos utilizando los scripts SQL proporcionados. Consulte los diagramas en el archivo Astah para obtener una visión general de la estructura del proyecto.
